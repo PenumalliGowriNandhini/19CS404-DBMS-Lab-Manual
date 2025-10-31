@@ -269,12 +269,7 @@ WHERE
 
 **Output:**
 
-<img width="722" height="367" alt="image" src="https://github.com/user-attachments/assets/2a90f3d7-d410-4f30-a91e-9f97cfbe9355" />
-
-**Module 5 SEB grades**
----
-<img width="1850" height="849" alt="image" src="https://github.com/user-attachments/assets/93fcf979-61d5-4c3f-81bb-8be1b220840d" />
-
+<img width="722" height="367" alt="image" src="https://github.com/user-attachments/assets/2a90f3d7-d410-4f30-a91e-9f97cfbe9355" 
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
