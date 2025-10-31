@@ -269,7 +269,7 @@ WHERE
 
 **Output:**
 
-<img width="722" height="367" alt="image" src="https://github.com/user-attachments/assets/2a90f3d7-d410-4f30-a91e-9f97cfbe9355" 
+<img width="722" height="367" alt="image" src="https://github.com/user-attachments/assets/2a90f3d7-d410-4f30-a91e-9f97cfbe9355" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
